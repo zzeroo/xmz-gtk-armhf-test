@@ -7,7 +7,7 @@ Die Grafische Benutzeroberfläche der xMZ-Mod-Touch. Erstellt mit dem gtk3 Toolk
 # Cross Compile Umgebung
 ## Dependencies
 
-  apt-get install libgtk-3-dev:armhf
+    apt-get install libgtk-3-dev:armhf
 
 
 ## Building
@@ -19,7 +19,7 @@ Die Grafische Benutzeroberfläche der xMZ-Mod-Touch. Erstellt mit dem gtk3 Toolk
 # Software direkt auf der armhf Hardware erstellen
 ## Dependencies
 
-  apt-get install libgtk-3-dev
+    apt-get install libgtk-3-dev
 
 
 ## Building
